@@ -1,4 +1,4 @@
-let userInputText = prompt(`Input your text:`);
+const userInputText = prompt(`Input your text:`);
 
 let spaceCount = 0;
 for (let i = 0; i < userInputText.length; i++) {
